@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🔭 I’m currently a computer engineering student at Chulalongkorn University 
-- 🌱 I’m currently learning to become better machine learning engineer
+- 🌱 I’m currently learning to become better at machine learning
 - 👯 I’m looking to collaborate on website development project
 - 💬 Ask me about website development and machine learning
 - 📫 To contact me please sent me an email at jajaongjan@gmail.com
